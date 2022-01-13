@@ -1,4 +1,5 @@
 # Pipeline
+  * Data and Library Import
   * EDA (Exploratory Data Analysis)
   * Scaling, Transforming and Encoding   
   * Model Selection
