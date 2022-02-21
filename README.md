@@ -7,12 +7,14 @@
         - numerical features
     - Identify significant corralations
     - Identify outliers in dataset
-  * Scaling, Transforming and Encoding   
+  * Scaling
      - MinMaxScaler
      - StandardScaler
      - MaxAbsScaler
      - RobustScaler
      - Normalizer
+  * Transforming
+  * Encoding   
   * Model Selection
   * Hyperparameter Tuning
   * Test and Result
